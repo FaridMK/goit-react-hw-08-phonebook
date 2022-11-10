@@ -1,0 +1,25 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    align-items: flex-end;
+    min-width: 320px;
+    margin-bottom: 10px;
+    font-size: 22px;
+  }
+  
+  ul {
+    padding-left: 0;
+  }
+  .btn {
+    display: block;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(11, 130, 174);
+  }
+  
+  .btn:hover {
+    background-color: rgb(57, 88, 84);
+  }
